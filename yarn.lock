@@ -2068,14 +2068,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"axios@npm:1.6.7":
-  version: 1.6.7
-  resolution: "axios@npm:1.6.7"
+"axios@npm:1.9.0":
+  version: 1.9.0
+  resolution: "axios@npm:1.9.0"
   dependencies:
-    follow-redirects: "npm:^1.15.4"
+    follow-redirects: "npm:^1.15.6"
     form-data: "npm:^4.0.0"
     proxy-from-env: "npm:^1.1.0"
-  checksum: 10c0/131bf8e62eee48ca4bd84e6101f211961bf6a21a33b95e5dfb3983d5a2fe50d9fffde0b57668d7ce6f65063d3dc10f2212cbcb554f75cfca99da1c73b210358d
+  checksum: 10c0/9371a56886c2e43e4ff5647b5c2c3c046ed0a3d13482ef1d0135b994a628c41fbad459796f101c655e62f0c161d03883454474d2e435b2e021b1924d9f24994c
   languageName: node
   linkType: hard
 
@@ -3019,7 +3019,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "daim-api@workspace:."
   dependencies:
-    axios: "npm:1.6.7"
+    axios: "npm:1.9.0"
     laravel-mix: "npm:6.0.49"
     lodash: "npm:4.17.21"
     postcss: "npm:8.5.3"
@@ -3701,7 +3701,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"follow-redirects@npm:^1.0.0, follow-redirects@npm:^1.15.4":
+"follow-redirects@npm:^1.0.0, follow-redirects@npm:^1.15.6":
   version: 1.15.9
   resolution: "follow-redirects@npm:1.15.9"
   peerDependenciesMeta:

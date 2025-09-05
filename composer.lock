@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1a26f3a3b2ed6f2979d43d66af6c04e8",
+    "content-hash": "b501202353241523a028931313cec475",
     "packages": [
         {
             "name": "brick/math",
@@ -8832,16 +8832,16 @@
         },
         {
             "name": "squizlabs/php_codesniffer",
-            "version": "3.13.2",
+            "version": "3.13.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PHPCSStandards/PHP_CodeSniffer.git",
-                "reference": "5b5e3821314f947dd040c70f7992a64eac89025c"
+                "reference": "5be16e10d07a2b0c629a8fc52c653fd57458bdf8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PHPCSStandards/PHP_CodeSniffer/zipball/5b5e3821314f947dd040c70f7992a64eac89025c",
-                "reference": "5b5e3821314f947dd040c70f7992a64eac89025c",
+                "url": "https://api.github.com/repos/PHPCSStandards/PHP_CodeSniffer/zipball/5be16e10d07a2b0c629a8fc52c653fd57458bdf8",
+                "reference": "5be16e10d07a2b0c629a8fc52c653fd57458bdf8",
                 "shasum": ""
             },
             "require": {
@@ -8912,7 +8912,7 @@
                     "type": "thanks_dev"
                 }
             ],
-            "time": "2025-06-17T22:17:01+00:00"
+            "time": "2025-09-04T19:19:52+00:00"
         },
         {
             "name": "symfony/yaml",

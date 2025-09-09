@@ -1,5 +1,12 @@
 # Releases
 
+## [1.2.50](https://github.com/shadow81627/daim-api/compare/v1.2.49...v1.2.50) (2025-09-09)
+
+
+### Bug Fixes
+
+* **deps:** update dependency laravel/framework to v10.49.0 ([#519](https://github.com/shadow81627/daim-api/issues/519)) ([a655349](https://github.com/shadow81627/daim-api/commit/a655349c7aa60ad47069f38d0451886d6ba9fb89))
+
 ## [1.2.49](https://github.com/shadow81627/daim-api/compare/v1.2.48...v1.2.49) (2025-08-24)
 
 

@@ -21,7 +21,7 @@
         "nunomaduro/collision": "^7.0",
         "phpunit/phpunit": "^10",
         "spatie/laravel-ignition": "^2.0",
-        "squizlabs/php_codesniffer": "4.0.0"
+        "squizlabs/php_codesniffer": "4.0.1"
     },
     "autoload": {
         "psr-4": {
